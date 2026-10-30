@@ -4,7 +4,7 @@
 
 **Print Magic: The Gathering tokens as stickers, straight from your phone.**
 
-Browse every token and emblem, pick the art you like, and print it on a small, affordable Bluetooth thermal sticker printer.
+Browse every token and emblem, pick the art you like, and print it on a small, cheap Bluetooth thermal sticker printer.
 
 [![Latest version](https://img.shields.io/github/v/release/eddie-w2/MTGTokenPrinter-releases?label=latest&color=2ea44f)](https://github.com/eddie-w2/MTGTokenPrinter-releases/releases/latest)
 ![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3ddc84)
@@ -18,7 +18,7 @@ Browse every token and emblem, pick the art you like, and print it on a small, a
 
 ## Why Token Printer?
 
-Tokens are the part of Magic that is always missing when you need it. A sticker printer in your bag solves that: pick a token, tap Print, and a few seconds later you have a Goblin, a Treasure or a Zombie ready for the table.
+Tokens are the part of Magic that is always missing when you need it. While dry erase tokens solve for it in the moment, a sticker printer in your bag solves it long term: pick a token, tap Print, and a few seconds later you have a permanent token you can slap on a bulk card and keep with that deck.
 
 ## What it does
 
