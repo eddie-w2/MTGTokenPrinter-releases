@@ -1,2 +1,79 @@
-# MTGTokenPrinter-releases
-Download page for Token Printer app updates
+<div align="center">
+
+# Token Printer
+
+**Print Magic: The Gathering tokens as stickers, straight from your phone.**
+
+Browse every token and emblem, pick the art you like, and print it on a small, affordable Bluetooth thermal sticker printer.
+
+[![Latest version](https://img.shields.io/github/v/release/eddie-w2/MTGTokenPrinter-releases?label=latest&color=2ea44f)](https://github.com/eddie-w2/MTGTokenPrinter-releases/releases/latest)
+![Android 8.0+](https://img.shields.io/badge/Android-8.0%2B-3ddc84)
+![Free](https://img.shields.io/badge/price-free-blue)
+
+### [Download the latest version](https://github.com/eddie-w2/MTGTokenPrinter-releases/releases/latest)
+
+</div>
+
+---
+
+## Why Token Printer?
+
+Tokens are the part of Magic that is always missing when you need it. A sticker printer in your bag solves that: pick a token, tap Print, and a few seconds later you have a Goblin, a Treasure or a Zombie ready for the table.
+
+## What it does
+
+- **Every token and emblem, always current.** The full list comes from Scryfall, and you can sync new set releases with one tap.
+- **Pick your favorite art.** Browse every printing of a token, and heart the one you want to be your default.
+- **Fast printing.** Press and hold any token, slide onto **Print** or **Export**, and let go. It uses your last settings.
+- **A live preview of exactly what will print**, with controls for the caption, keyword abilities or full rules text, power/toughness, color identity, fonts, text size, line spacing and contrast.
+- **Stacked labels.** Mark a single token as "10x", "25x", "50x" or "100x" when one sticker stands in for a whole pile of them.
+- **Decks.** Paste a card list from Arena, Moxfield and similar, and Token Printer finds every token your deck creates, so you can print them all at once.
+- **Your own tokens.** Draw one, or use a photo, and attach it to an existing token or keep it on its own.
+- **Works with other printers too.** Export a token as a JPEG (color, grayscale or black and white) and print it from any printer's own app.
+- **Dark mode, backup and restore, and a built-in FAQ.**
+- **Updates itself.** See [Staying up to date](#staying-up-to-date).
+
+## Supported printers
+
+| Printer | Status |
+| --- | --- |
+| YTETCN / Funny Print (shows up as **LX-D02**) | Supported |
+| Other Bluetooth thermal sticker printers | Use **Export** to print from the printer's own app. More printers are planned. |
+
+Own a different printer? [Tell me which one](mailto:mtgtokenprinter@gmail.com) and I'll do my best to add it.
+
+## Install
+
+Token Printer isn't on the Google Play Store, so you install it directly. It takes about a minute.
+
+1. On your Android phone, open the [latest release](https://github.com/eddie-w2/MTGTokenPrinter-releases/releases/latest).
+2. Under **Assets**, tap the file ending in **.apk** (for example `TokenPrinter-0.8.01-code12.apk`) to download it.
+3. Open the downloaded file. Android will ask whether to allow your browser to install apps. Allow it for this one install.
+4. Tap **Install**. If Google Play Protect warns you because the app isn't from the Play Store, choose **Install anyway**.
+5. Open **Token Printer**, switch on your printer, tap **Connect**, then **Scan**, and pick your printer.
+
+That's it. The first time you open the app it downloads the token list, so connect to the internet for that step.
+
+**Requirements:** Android 8.0 or newer, and Bluetooth.
+
+## Staying up to date
+
+After the first install, you don't need to come back to this page. Token Printer checks for a new version the first time you open it each day and shows you what changed. Choose **Update now** and confirm Android's prompt. If you pick **Later**, the update waits for you in **Settings > App updates**, where you can also check by hand.
+
+The first update asks you to allow Token Printer to install updates. This is a one-time Android permission.
+
+Every version, and what changed in it, is listed on the [Releases page](https://github.com/eddie-w2/MTGTokenPrinter-releases/releases).
+
+## Need help?
+
+- The app has a built-in **FAQ** (Settings > Help > Open the FAQ).
+- To reach me, use **Settings > Help > Contact me**, or email [mtgtokenprinter@gmail.com](mailto:mtgtokenprinter@gmail.com).
+- Found a bug? Use **Settings > Help > Report a bug**. It fills in your app version, the date and your phone model for you, which makes problems much easier to track down.
+
+## Legal
+
+Token Printer is unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+
+Magic: The Gathering, its card names, art, symbols and token designs are trademarks and copyrighted works of Wizards of the Coast LLC and their respective artists. This app is not affiliated with, sponsored or endorsed by Wizards of the Coast, Hasbro, Scryfall or any printer maker.
+
+Card data and images are provided by [Scryfall](https://scryfall.com) and are fetched onto your phone. Nothing is copied to any server by the app, and no card data or art is included in the download. Art stays credited to its artists. Use printed tokens for personal play only, not for sale.
