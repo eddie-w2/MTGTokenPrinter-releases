@@ -35,12 +35,22 @@ Tokens are the part of Magic that is always missing when you need it. While dry 
 
 ## Supported printers
 
-| Printer | Status |
-| --- | --- |
-| YTETCN / Funny Print (shows up as **LX-D02**) | Supported |
-| Other Bluetooth thermal sticker printers | Use **Export** to print from the printer's own app. More printers are planned. |
+Token Printer recognises your printer by its Bluetooth name and sorts it under the app it came with. If you know which app your printer uses, you know whether it's covered.
 
-Own a different printer? [Tell me which one](mailto:mtgtokenprinter@gmail.com) and I'll do my best to add it.
+| Printer's own app | Example models | Status |
+| --- | --- | --- |
+| **Funny Print** | YTETCN **LX-D02**, LX-D01 to LX-D09, XenGro AH-M2, Dolewa | LX-D02 tested · others experimental |
+| **Tiny Print / iPrint** | GB01 to GB05, GT01, X5, X6, X7, and many white-label "cat printers" | Experimental |
+| **Fun Print / iBleem** | MX05, MX06, MX08, MX10, YT01, BQ series, MXW01, KERUI | Experimental |
+| **Phomemo** | M02, M02X, M02S, M02 Pro, T02, Memoking T02 / Q02E | Experimental |
+| **Any ESC/POS app** | 58 mm and 80 mm Bluetooth receipt printers | Experimental |
+| Anything else | | Use **Export** to make an image and print it from the printer's own app |
+
+*Experimental* means Token Printer speaks that printer's language, but nobody has confirmed it yet on real hardware. If yours works (or doesn't), please use **Settings > Help > Report a bug** to tell me. That's how printers move to *tested*.
+
+Printer not in the list? In the printer window, tap **Show other Bluetooth devices**, then **⋮ > Try as…** and pick the app your printer came with. Or [tell me which one you have](mailto:mtgtokenprinter@gmail.com) and I'll do my best to add it.
+
+Printer support builds on the excellent open-source [TiMini-Print](https://github.com/Dejniel/TiMini-Print) project (Apache License 2.0).
 
 ## Install
 
