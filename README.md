@@ -80,6 +80,12 @@ Every version, and what changed in it, is listed on the [Releases page](https://
 - To reach me, use **Settings > Help > Contact me**, or email [mtgtokenprinter@gmail.com](mailto:mtgtokenprinter@gmail.com).
 - Found a bug? Use **Settings > Help > Report a bug**. It fills in your app version, the date and your phone model for you, which makes problems much easier to track down.
 
+## Open source
+
+Token Printer is free, open-source software under the **GNU General Public License v3.0 or later**. The source code lives at
+[github.com/eddie-w2/MTGTokenPrinter](https://github.com/eddie-w2/MTGTokenPrinter). Printer reports, bug reports and
+fixes are welcome there.
+
 ## Legal
 
 Token Printer is unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards of the Coast. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
