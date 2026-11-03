@@ -43,6 +43,7 @@ Token Printer recognises your printer by its Bluetooth name and sorts it under t
 | **Tiny Print / iPrint** | GB01 to GB05, GT01, X5, X6, X7, and many white-label "cat printers" | Experimental |
 | **Fun Print / iBleem** | MX05, MX06, MX08, MX10, YT01, BQ series, MXW01, KERUI | Experimental |
 | **Phomemo** | M02, M02X, M02S, M02 Pro, T02, Memoking T02 / Q02E | Experimental |
+| **Nada Print** | D20 | D20 tested |
 | **Any ESC/POS app** | 58 mm and 80 mm Bluetooth receipt printers | Experimental |
 | Anything else | | Use **Export** to make an image and print it from the printer's own app |
 
