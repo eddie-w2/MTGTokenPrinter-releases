@@ -49,6 +49,13 @@ Token Printer recognises your printer by its Bluetooth name and sorts it under t
 
 *Experimental* means Token Printer speaks that printer's language, but nobody has confirmed it yet on real hardware. If yours works (or doesn't), please use **Settings > Help > Report a bug** to tell me. That's how printers move to *tested*.
 
+### Recommended printers
+
+These are the printers I've tested and can recommend. This list is kept up to date as more printers are confirmed.
+
+- **YTETCN LX-D02** (Funny Print app): the printer Token Printer was built on.
+- **D20** (Nada Print app): works out of the box.
+
 Printer not in the list? In the printer window, tap **Show other Bluetooth devices**, then **⋮ > Try as…** and pick the app your printer came with. Or [tell me which one you have](mailto:mtgtokenprinter@gmail.com) and I'll do my best to add it.
 
 Printer support builds on the excellent open-source [TiMini-Print](https://github.com/Dejniel/TiMini-Print) project (Apache License 2.0).
